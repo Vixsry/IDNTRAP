@@ -1,4 +1,4 @@
-# IDNTRAP
+# IDNTRAP COMING SOON
 
 IDNTRAP is a modern and lightweight CSS framework designed to help you build web interfaces quickly and easily. Its concept is similar to Bootstrap but more streamlined, focusing on the needs of developers.
 
