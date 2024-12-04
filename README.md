@@ -296,7 +296,7 @@ We highly appreciate your contributions to IDNTRAP. Please fork this repository,
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/idntrap.git
+   git clone https://github.com/Vixsry/idntrap.git
    ```
 
 2. Install dependencies:
