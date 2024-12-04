@@ -1,6 +1,6 @@
 # IDNTRAP COMING SOON
 
-IDNTRAP is a modern and lightweight CSS framework designed to help you build web interfaces quickly and easily. Its concept is similar to Bootstrap but more streamlined, focusing on the needs of developers.
+IDNTRAP is a modern and lightweight CSS framework designed to help you build web interfaces quickly and easily.Modern and responsive interface
 
 ---
 
@@ -75,34 +75,12 @@ Download the CSS file from [IDNTRAP's official website](https://idntrap.com) and
 
 1. **Buttons:**
    ```html
-   <button class="btn btn-primary">Primary</button>
-   <button class="btn btn-secondary">Secondary</button>
-   <button class="btn btn-danger">Danger</button>
+   <button class="btn idnt-btn-blue">Blue</button>
+   <button class="btn idnt-btn-white">White</button>
+   <button class="btn idnt-btn-red">Red</button>
    ```
 
-2. **Grid System:**
-   ```html
-   <div class="row">
-       <div class="col-6">Column 1</div>
-       <div class="col-6">Column 2</div>
-   </div>
-   ```
 
-3. **Cards:**
-   ```html
-   <div class="card">
-       <div class="card-header">Header</div>
-       <div class="card-body">This is the card content.</div>
-       <div class="card-footer">Footer</div>
-   </div>
-   ```
-
-4. **Shell Icons:**
-   ```html
-   <i class="icon-shell"></i>
-   <i class="icon-shell-outline"></i>
-   <i class="icon-shell-filled"></i>
-   ```
 
 ---
 
