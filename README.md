@@ -153,10 +153,10 @@ IDNTRAP is released under the MIT license. You are free to use it for personal o
 
 ## Full Documentation
 
-Visit [idntrap.com/docs](https://idntrap.com/docs) for detailed documentation and guides.
+Visit :Soon for detailed documentation and guides.
 
 ---
 
 ## Contact
 
-If you have any questions or suggestions, reach out to us at: support@idntrap.com.
+If you have any questions or suggestions, reach out to us at: Soon
