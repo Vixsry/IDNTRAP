@@ -10,7 +10,6 @@ IDNTRAP is a modern and lightweight CSS framework designed to help you build web
 - **Ready-to-Use Components:** Buttons, cards, navbars, forms, and more.
 - **Easy Customization:** CSS variables for theme adjustments.
 - **Lightweight and Fast:** Small file size for optimal performance.
-- **Shell Icon Support:** Includes pre-designed shell icons for seamless integration.
 
 ---
 
@@ -63,9 +62,9 @@ Download the CSS file from [IDNTRAP's official website](https://idntrap.com) and
 </head>
 <body>
     <div class="container">
-        <h1 class="text-center">Welcome to IDNTRAP</h1>
-        <button class="btn btn-primary">Click Me</button>
-        <i class="icon-shell"></i>
+        <h1 class="tx-center">Welcome to IDNTRAP</h1>
+        <button class="btn idnt-btn-blue">Click Me</button>
+        <i class="idn-name icon"></i>
     </div>
 </body>
 </html>
